@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       Remove Admin Notices
  * Plugin URI:        http://www.iranimij.com
- * Description:       Post tracking code.
+ * Description:       Remove all admin notices just by enabling this plugin.
  * Version:           1.0.0
  * Author:            Iman Heydari
  * License:           GPL-2.0+
